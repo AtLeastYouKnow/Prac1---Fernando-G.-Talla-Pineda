@@ -1,0 +1,1 @@
+Honestamente no se que hice, pero aqui esta. Pues en VS esta integrado de manera nativa para github, igual que en android studio. Tuve que usar la terminal tras años jaajjajajaj gjoaqen gjongsdkgnosmdg
